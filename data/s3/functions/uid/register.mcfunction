@@ -1,0 +1,1 @@
+execute store result score @s uid run scoreboard players add player uid 1

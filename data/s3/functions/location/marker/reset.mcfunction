@@ -1,0 +1,1 @@
+execute in overworld run tp @s 0 3000 0

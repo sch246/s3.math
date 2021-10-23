@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "s3:scb/load",
+        "s3:age/load",
+        "s3:time/load",
+        "s3:player/load",
+        "s3:dimension/load",
+        "s3:tp/load",
+        "s3:uid/load",
+        "s3:person/load",
+        "s3:list/load",
+        "1min",
+        "s3:block_store/load",
+        "s3:block/load"
+    ]
+}

@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=s3.location.marker,limit=1] run function s3:location/getlocation/exe_

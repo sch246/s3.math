@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "s3:age/tick",
+        "s3:player/tick",
+        "s3:dimension/tick",
+        "s3:tp/tick",
+        "s3:uid/tick",
+        "s3:cusfunc/tick"
+    ]
+}

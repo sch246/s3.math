@@ -1,3 +1,4 @@
+# 按照现实时间的单位转化
 # input: scb time tmp
 # output: scb tick,sec,min,hour,day tmp
 
